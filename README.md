@@ -1,0 +1,1 @@
+# spree-wood-shop-theme
